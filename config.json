@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:test@localhost/blogshell",
+    "prod_uri":"mysql://root:test@localhost/blogshell",
+    "fb_url":"https://facebook.com/blogshell",
+    "tw_url":"https://twitter.com/blogshell",
+    "gh_url": "https://github.com/blogshell",
+    "blog_name": "BLOG NAME",
+    "tag_line": "BLOG TAGLINE",
+    "gmail-user":"user_email",
+    "gmail-password":"user_gmail_password",
+    "about_text": "Hi my name is ADMIN",
+    "no_of_posts": 3,
+    "admin_user":"admin",
+    "admin_password":"admin",
+    "upload_location":"C:\\Users\\hp\\PycharmProjects\\FLASKTY\\static"
+  }
+}
