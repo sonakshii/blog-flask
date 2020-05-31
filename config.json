@@ -2,8 +2,8 @@
   "params":
   {
     "local_server":"True",
-    "local_uri": "mysql://root:test@localhost/blogshell",
-    "prod_uri":"mysql://root:test@localhost/blogshell",
+    "local_uri": "mysql://root:@localhost/blogshell",
+    "prod_uri":"mysql://root:@localhost/blogshell",
     "fb_url":"https://facebook.com/blogshell",
     "tw_url":"https://twitter.com/blogshell",
     "gh_url": "https://github.com/blogshell",
